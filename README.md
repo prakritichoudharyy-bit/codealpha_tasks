@@ -3,7 +3,7 @@
 Ek ready-to-run Flask chatbot jo tour & travel queries handle karta hai — destinations,
 package pricing, visa, booking process, cancellation policy, FAQs, aur more.
 
-## Kaise chalayein (Windows PowerShell)
+## (Windows PowerShell)
 
 1. Zip ko extract karein aur folder me jaayein:
    ```
